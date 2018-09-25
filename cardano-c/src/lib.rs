@@ -1,4 +1,5 @@
 extern crate cardano;
+extern crate serde_json;
 
 pub mod types;
 pub mod address;

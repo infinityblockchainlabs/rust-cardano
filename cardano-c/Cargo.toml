@@ -16,3 +16,4 @@ crate-type = ["staticlib" ]
 
 [dependencies]
 cardano = { path = "../cardano" }
+serde_json = "1.0"
